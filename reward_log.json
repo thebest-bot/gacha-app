@@ -422,5 +422,11 @@
     "reward_name": "NAME",
     "rarity": "4 star",
     "timestamp": "2026-06-04T16:24:05.526206"
+  },
+  {
+    "user_id": "ria",
+    "reward_name": "10% DISCOUNT",
+    "rarity": "3 star",
+    "timestamp": "2026-06-04T16:24:06.694340"
   }
 ]
