@@ -1415,5 +1415,11 @@
     "reward_name": "MOVIE",
     "rarity": "5 star",
     "timestamp": "2026-06-06T19:10:54.187657"
+  },
+  {
+    "user_id": "SpeedTest",
+    "reward_name": "5% DISCOUNT",
+    "rarity": "3 star",
+    "timestamp": "2026-06-06T19:17:30.354768"
   }
 ]
