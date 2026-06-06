@@ -589,5 +589,12 @@
     "reward_name": "NAME",
     "rarity": "4 star",
     "timestamp": "2026-06-06T17:22:04.045537"
+  },
+  {
+    "user_id": "Guigi",
+    "reward_name": "1 PULL",
+    "rarity": "3 star",
+    "timestamp": "2026-06-06T17:24:46.232528",
+    "token_used": "gAAAAABqJFfRNphgwPbK04HuAwIc2jeE1ZahmmqBIoixTNu_IqKsg7Z9D7EJew_nay6C2k9RNNfhBQUbCMSHQPHO-LVBlG0IbX8HEpWjXiI59ewWLB-VYh4="
   }
 ]
